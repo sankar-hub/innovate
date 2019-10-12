@@ -1,0 +1,1 @@
+java -jar spring-boot-general.jar --spring.profiles.active=dev
